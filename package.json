@@ -1,0 +1,29 @@
+{
+  "name": "terminal-event",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sandrodvalashvili/terminal-event.git"
+  },
+  "keywords": [
+    "terminal",
+    "event",
+    "catcher",
+    "mouse",
+    "keyboard",
+    "handling",
+    "listener",
+    "handler"
+  ],
+  "author": "sandro dvalashvili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandrodvalashvili/terminal-event/issues"
+  },
+  "homepage": "https://github.com/sandrodvalashvili/terminal-event#readme"
+}
